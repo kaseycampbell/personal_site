@@ -1,0 +1,11 @@
+body {
+    width: 750px;
+}
+
+.selfie {
+    height: 400px;
+    width: 400px;
+    border-radius: 20px;
+    float: right;
+    margin: 20px;
+}

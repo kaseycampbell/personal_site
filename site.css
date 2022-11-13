@@ -1,0 +1,32 @@
+header {
+    border-bottom: darkslateblue 4px solid;
+    text-align: center;
+    max-width: 750px;
+    margin: auto;
+}
+body {
+    background-color: silver;
+    font-family: fantasy;
+    padding: 10px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 20 px;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+.links img {
+    max-width: 75px;
+    max-height: 75px;
+    border-radius: 50%;
+    justify-content: space-evenly;
+    padding: 20px;
+}

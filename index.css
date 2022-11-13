@@ -1,0 +1,15 @@
+body {
+    width: 750px;
+}
+.avatar img{
+    width: 240;
+    height: 240;
+    border-radius: 20px;
+    margin: 20px;
+}
+.feature {
+    border: darkslateblue 4px solid;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: lightblue;
+}
